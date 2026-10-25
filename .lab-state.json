@@ -11,7 +11,11 @@
   "devEnvId": "8a1ffd18-4ed9-ebfc-b9f3-efb542436f09",
   "devOrgId": "7daf819b-93d0-f111-be87-6045bd06d904",
   "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-6745.crm.dynamics.com",
   "packageDeployerScaffolded": true,
   "dataModelScaffolded": true,
-  "columnsScaffolded": true
+  "columnsScaffolded": true,
+  "testEnvId": "0f2f7bc8-0569-e071-8834-23e6c78e9609",
+  "testOrgId": "7b3c4bac-98d0-f111-be87-6045bd06d939",
+  "testProfile": "test"
 }
